@@ -1,8 +1,7 @@
-import copy
-
+# Efficieny is not the focus here
 
 sum = 0
-with open("AOC_Day1_Part1_Input.txt") as file:
+with open("AOC_Day1_Input.txt") as file:
     for line in file:
         start_idx = 0
         end_idx = len(line) - 1
