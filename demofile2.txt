@@ -1,0 +1,4732 @@
+row: 0
+48
+501
+counted: 501
+33
+622
+763
+counted: 763
+331
+counted: 331
+161
+counted: 161
+683
+counted: 683
+980
+counted: 980
+row: 1
+491
+counted: 491
+842
+counted: 842
+948
+counted: 948
+338
+counted: 338
+309
+counted: 309
+633
+counted: 633
+990
+counted: 990
+706
+counted: 706
+452
+counted: 452
+row: 2
+426
+408
+counted: 408
+659
+counted: 659
+250
+767
+counted: 767
+403
+counted: 403
+row: 3
+363
+counted: 363
+961
+counted: 961
+959
+counted: 959
+508
+counted: 508
+223
+counted: 223
+843
+406
+counted: 406
+690
+counted: 690
+479
+counted: 479
+398
+counted: 398
+458
+counted: 458
+row: 4
+946
+counted: 946
+767
+counted: 767
+907
+counted: 907
+158
+counted: 158
+850
+counted: 850
+670
+counted: 670
+10
+counted: 10
+790
+counted: 790
+row: 5
+39
+counted: 39
+306
+679
+counted: 679
+113
+counted: 113
+665
+counted: 665
+874
+counted: 874
+597
+861
+840
+counted: 840
+855
+counted: 855
+row: 6
+864
+154
+counted: 154
+1
+counted: 1
+4
+counted: 4
+341
+counted: 341
+731
+counted: 731
+783
+counted: 783
+204
+counted: 204
+row: 7
+919
+counted: 919
+706
+counted: 706
+891
+counted: 891
+840
+counted: 840
+473
+counted: 473
+379
+counted: 379
+149
+counted: 149
+115
+counted: 115
+519
+counted: 519
+668
+counted: 668
+423
+counted: 423
+row: 8
+398
+counted: 398
+190
+counted: 190
+530
+counted: 530
+475
+row: 9
+543
+counted: 543
+834
+counted: 834
+729
+146
+789
+counted: 789
+189
+counted: 189
+511
+counted: 511
+17
+counted: 17
+455
+counted: 455
+308
+counted: 308
+662
+530
+row: 10
+142
+counted: 142
+437
+138
+counted: 138
+755
+counted: 755
+53
+counted: 53
+783
+counted: 783
+674
+counted: 674
+315
+counted: 315
+row: 11
+826
+counted: 826
+752
+counted: 752
+414
+480
+counted: 480
+276
+counted: 276
+952
+counted: 952
+row: 12
+131
+counted: 131
+654
+counted: 654
+590
+counted: 590
+819
+counted: 819
+347
+counted: 347
+294
+counted: 294
+776
+counted: 776
+741
+counted: 741
+830
+counted: 830
+230
+counted: 230
+row: 13
+586
+counted: 586
+968
+counted: 968
+319
+counted: 319
+628
+counted: 628
+516
+counted: 516
+933
+600
+counted: 600
+row: 14
+726
+876
+counted: 876
+772
+counted: 772
+99
+counted: 99
+145
+counted: 145
+785
+counted: 785
+row: 15
+710
+counted: 710
+352
+counted: 352
+842
+counted: 842
+941
+counted: 941
+802
+133
+counted: 133
+474
+235
+counted: 235
+561
+counted: 561
+row: 16
+642
+counted: 642
+774
+counted: 774
+67
+counted: 67
+921
+counted: 921
+374
+counted: 374
+165
+counted: 165
+row: 17
+250
+counted: 250
+8
+counted: 8
+968
+counted: 968
+375
+counted: 375
+224
+497
+counted: 497
+833
+counted: 833
+row: 18
+584
+counted: 584
+978
+counted: 978
+107
+counted: 107
+471
+counted: 471
+486
+counted: 486
+408
+counted: 408
+241
+counted: 241
+555
+counted: 555
+row: 19
+662
+counted: 662
+186
+counted: 186
+550
+counted: 550
+309
+counted: 309
+76
+counted: 76
+399
+counted: 399
+row: 20
+281
+counted: 281
+808
+counted: 808
+666
+counted: 666
+207
+counted: 207
+615
+59
+counted: 59
+569
+counted: 569
+197
+counted: 197
+42
+counted: 42
+572
+231
+counted: 231
+row: 21
+758
+counted: 758
+777
+counted: 777
+433
+counted: 433
+646
+counted: 646
+834
+counted: 834
+543
+counted: 543
+769
+counted: 769
+row: 22
+995
+628
+counted: 628
+341
+counted: 341
+583
+counted: 583
+112
+counted: 112
+74
+counted: 74
+341
+counted: 341
+row: 23
+775
+counted: 775
+744
+counted: 744
+278
+counted: 278
+128
+counted: 128
+126
+counted: 126
+940
+counted: 940
+839
+counted: 839
+385
+counted: 385
+499
+302
+counted: 302
+row: 24
+177
+counted: 177
+574
+561
+counted: 561
+590
+counted: 590
+231
+counted: 231
+586
+counted: 586
+212
+counted: 212
+row: 25
+418
+counted: 418
+954
+counted: 954
+433
+counted: 433
+484
+counted: 484
+526
+counted: 526
+643
+counted: 643
+778
+701
+counted: 701
+row: 26
+414
+counted: 414
+493
+counted: 493
+566
+counted: 566
+236
+748
+counted: 748
+543
+counted: 543
+593
+745
+counted: 745
+57
+counted: 57
+row: 27
+46
+counted: 46
+659
+counted: 659
+980
+counted: 980
+66
+counted: 66
+36
+87
+counted: 87
+994
+counted: 994
+218
+counted: 218
+443
+row: 28
+226
+241
+counted: 241
+893
+counted: 893
+257
+counted: 257
+312
+counted: 312
+69
+counted: 69
+792
+counted: 792
+257
+counted: 257
+790
+184
+counted: 184
+row: 29
+854
+counted: 854
+909
+139
+counted: 139
+276
+counted: 276
+680
+counted: 680
+432
+counted: 432
+580
+counted: 580
+248
+row: 30
+136
+counted: 136
+755
+counted: 755
+950
+counted: 950
+173
+95
+2
+counted: 2
+877
+668
+counted: 668
+918
+counted: 918
+62
+counted: 62
+571
+counted: 571
+row: 31
+333
+counted: 333
+812
+counted: 812
+428
+counted: 428
+496
+counted: 496
+903
+counted: 903
+258
+counted: 258
+650
+counted: 650
+281
+counted: 281
+row: 32
+500
+counted: 500
+6
+counted: 6
+719
+counted: 719
+285
+counted: 285
+955
+counted: 955
+712
+counted: 712
+12
+counted: 12
+561
+counted: 561
+497
+667
+counted: 667
+843
+777
+counted: 777
+427
+row: 33
+506
+counted: 506
+359
+counted: 359
+24
+counted: 24
+544
+counted: 544
+436
+counted: 436
+492
+counted: 492
+272
+counted: 272
+row: 34
+377
+counted: 377
+41
+counted: 41
+229
+counted: 229
+761
+540
+counted: 540
+391
+counted: 391
+565
+counted: 565
+449
+counted: 449
+665
+counted: 665
+row: 35
+887
+906
+141
+counted: 141
+357
+874
+counted: 874
+811
+9
+counted: 9
+113
+counted: 113
+967
+628
+counted: 628
+row: 36
+406
+counted: 406
+637
+counted: 637
+551
+223
+counted: 223
+162
+counted: 162
+251
+counted: 251
+702
+counted: 702
+905
+counted: 905
+747
+counted: 747
+row: 37
+321
+counted: 321
+801
+390
+counted: 390
+845
+counted: 845
+12
+counted: 12
+399
+counted: 399
+126
+counted: 126
+283
+counted: 283
+566
+counted: 566
+124
+counted: 124
+102
+counted: 102
+row: 38
+447
+counted: 447
+935
+41
+68
+87
+counted: 87
+92
+counted: 92
+105
+counted: 105
+178
+counted: 178
+92
+21
+counted: 21
+row: 39
+505
+counted: 505
+614
+counted: 614
+948
+counted: 948
+237
+counted: 237
+512
+counted: 512
+108
+counted: 108
+58
+counted: 58
+162
+counted: 162
+454
+counted: 454
+395
+counted: 395
+5
+row: 40
+454
+counted: 454
+10
+counted: 10
+101
+counted: 101
+885
+counted: 885
+row: 41
+534
+114
+counted: 114
+95
+counted: 95
+427
+counted: 427
+210
+counted: 210
+674
+counted: 674
+371
+counted: 371
+903
+counted: 903
+81
+counted: 81
+922
+counted: 922
+231
+counted: 231
+346
+counted: 346
+row: 42
+525
+counted: 525
+887
+counted: 887
+162
+counted: 162
+211
+counted: 211
+166
+281
+counted: 281
+835
+635
+counted: 635
+828
+counted: 828
+row: 43
+571
+933
+counted: 933
+629
+counted: 629
+25
+977
+counted: 977
+178
+counted: 178
+749
+counted: 749
+row: 44
+993
+counted: 993
+516
+394
+counted: 394
+56
+counted: 56
+477
+counted: 477
+545
+counted: 545
+251
+counted: 251
+858
+counted: 858
+499
+counted: 499
+435
+counted: 435
+170
+counted: 170
+row: 45
+967
+counted: 967
+73
+counted: 73
+35
+counted: 35
+656
+counted: 656
+842
+counted: 842
+749
+counted: 749
+622
+counted: 622
+row: 46
+366
+counted: 366
+86
+counted: 86
+162
+counted: 162
+332
+counted: 332
+859
+counted: 859
+102
+488
+counted: 488
+717
+counted: 717
+row: 47
+347
+32
+counted: 32
+393
+counted: 393
+252
+262
+counted: 262
+951
+counted: 951
+823
+counted: 823
+784
+358
+counted: 358
+603
+counted: 603
+515
+counted: 515
+row: 48
+917
+counted: 917
+642
+counted: 642
+394
+counted: 394
+195
+counted: 195
+448
+counted: 448
+519
+counted: 519
+302
+counted: 302
+870
+counted: 870
+row: 49
+674
+counted: 674
+780
+counted: 780
+547
+counted: 547
+287
+504
+counted: 504
+803
+counted: 803
+688
+counted: 688
+831
+counted: 831
+617
+476
+counted: 476
+9
+counted: 9
+row: 50
+286
+counted: 286
+738
+counted: 738
+511
+counted: 511
+11
+581
+counted: 581
+268
+counted: 268
+439
+counted: 439
+523
+counted: 523
+459
+counted: 459
+69
+373
+887
+counted: 887
+row: 51
+555
+counted: 555
+45
+638
+counted: 638
+964
+88
+counted: 88
+row: 52
+802
+805
+counted: 805
+77
+counted: 77
+648
+counted: 648
+66
+counted: 66
+676
+counted: 676
+26
+counted: 26
+708
+counted: 708
+981
+counted: 981
+239
+counted: 239
+953
+counted: 953
+672
+counted: 672
+row: 53
+11
+counted: 11
+756
+counted: 756
+298
+counted: 298
+751
+433
+counted: 433
+727
+counted: 727
+row: 54
+553
+659
+counted: 659
+907
+counted: 907
+530
+counted: 530
+218
+counted: 218
+259
+counted: 259
+821
+counted: 821
+716
+counted: 716
+980
+counted: 980
+89
+counted: 89
+851
+counted: 851
+793
+counted: 793
+614
+counted: 614
+943
+counted: 943
+961
+counted: 961
+row: 55
+339
+counted: 339
+373
+counted: 373
+667
+counted: 667
+149
+counted: 149
+613
+counted: 613
+row: 56
+987
+670
+counted: 670
+105
+counted: 105
+347
+counted: 347
+383
+counted: 383
+605
+447
+counted: 447
+124
+counted: 124
+737
+counted: 737
+562
+counted: 562
+15
+counted: 15
+445
+counted: 445
+row: 57
+595
+counted: 595
+7
+counted: 7
+215
+counted: 215
+839
+counted: 839
+781
+counted: 781
+810
+350
+counted: 350
+row: 58
+929
+counted: 929
+362
+counted: 362
+890
+counted: 890
+975
+counted: 975
+2
+counted: 2
+252
+counted: 252
+576
+counted: 576
+78
+counted: 78
+685
+counted: 685
+240
+695
+counted: 695
+row: 59
+475
+counted: 475
+598
+counted: 598
+152
+counted: 152
+841
+counted: 841
+880
+counted: 880
+693
+counted: 693
+28
+384
+counted: 384
+row: 60
+472
+320
+counted: 320
+412
+counted: 412
+304
+395
+counted: 395
+113
+counted: 113
+601
+counted: 601
+row: 61
+324
+738
+counted: 738
+968
+counted: 968
+755
+counted: 755
+101
+counted: 101
+476
+counted: 476
+90
+counted: 90
+342
+counted: 342
+638
+counted: 638
+182
+704
+139
+row: 62
+610
+counted: 610
+601
+counted: 601
+356
+counted: 356
+633
+counted: 633
+971
+806
+counted: 806
+240
+counted: 240
+row: 63
+683
+counted: 683
+326
+counted: 326
+749
+390
+163
+counted: 163
+800
+483
+counted: 483
+792
+counted: 792
+94
+counted: 94
+row: 64
+600
+957
+counted: 957
+741
+counted: 741
+376
+counted: 376
+817
+counted: 817
+899
+counted: 899
+194
+counted: 194
+50
+counted: 50
+96
+counted: 96
+368
+counted: 368
+600
+counted: 600
+row: 65
+338
+counted: 338
+304
+counted: 304
+236
+counted: 236
+284
+counted: 284
+row: 66
+423
+763
+counted: 763
+947
+counted: 947
+371
+counted: 371
+187
+counted: 187
+356
+counted: 356
+441
+counted: 441
+201
+counted: 201
+285
+row: 67
+75
+counted: 75
+696
+counted: 696
+670
+counted: 670
+row: 68
+426
+counted: 426
+635
+counted: 635
+449
+counted: 449
+758
+counted: 758
+314
+counted: 314
+246
+counted: 246
+58
+counted: 58
+row: 69
+574
+counted: 574
+322
+counted: 322
+937
+counted: 937
+116
+counted: 116
+40
+counted: 40
+752
+counted: 752
+400
+counted: 400
+180
+918
+counted: 918
+195
+counted: 195
+49
+counted: 49
+983
+559
+counted: 559
+82
+counted: 82
+row: 70
+527
+counted: 527
+842
+counted: 842
+817
+counted: 817
+270
+counted: 270
+445
+counted: 445
+row: 71
+622
+counted: 622
+235
+counted: 235
+869
+counted: 869
+922
+counted: 922
+125
+counted: 125
+610
+counted: 610
+459
+counted: 459
+455
+counted: 455
+21
+counted: 21
+964
+counted: 964
+row: 72
+465
+counted: 465
+542
+counted: 542
+47
+counted: 47
+272
+775
+counted: 775
+328
+counted: 328
+row: 73
+732
+counted: 732
+51
+counted: 51
+853
+counted: 853
+222
+counted: 222
+672
+counted: 672
+148
+counted: 148
+572
+counted: 572
+499
+counted: 499
+12
+counted: 12
+row: 74
+125
+counted: 125
+581
+counted: 581
+909
+counted: 909
+787
+counted: 787
+720
+counted: 720
+263
+counted: 263
+881
+counted: 881
+623
+counted: 623
+891
+counted: 891
+515
+counted: 515
+726
+counted: 726
+78
+counted: 78
+row: 75
+715
+counted: 715
+935
+counted: 935
+650
+counted: 650
+874
+counted: 874
+127
+923
+counted: 923
+row: 76
+330
+counted: 330
+444
+counted: 444
+653
+counted: 653
+345
+counted: 345
+915
+counted: 915
+960
+counted: 960
+395
+counted: 395
+823
+counted: 823
+706
+734
+counted: 734
+341
+counted: 341
+295
+counted: 295
+342
+row: 77
+99
+counted: 99
+465
+counted: 465
+416
+counted: 416
+630
+counted: 630
+row: 78
+356
+counted: 356
+399
+counted: 399
+349
+counted: 349
+542
+counted: 542
+853
+counted: 853
+375
+counted: 375
+132
+counted: 132
+row: 79
+77
+counted: 77
+719
+counted: 719
+662
+233
+counted: 233
+781
+counted: 781
+687
+counted: 687
+row: 80
+791
+counted: 791
+933
+counted: 933
+931
+884
+counted: 884
+112
+counted: 112
+601
+counted: 601
+857
+counted: 857
+row: 81
+583
+292
+counted: 292
+438
+counted: 438
+424
+counted: 424
+603
+counted: 603
+416
+counted: 416
+484
+counted: 484
+104
+706
+row: 82
+452
+counted: 452
+549
+counted: 549
+24
+counted: 24
+997
+767
+counted: 767
+379
+counted: 379
+192
+counted: 192
+row: 83
+413
+523
+443
+412
+counted: 412
+546
+counted: 546
+859
+counted: 859
+138
+counted: 138
+66
+counted: 66
+576
+counted: 576
+row: 84
+348
+counted: 348
+816
+counted: 816
+106
+counted: 106
+391
+counted: 391
+447
+counted: 447
+895
+counted: 895
+595
+row: 85
+771
+675
+counted: 675
+673
+counted: 673
+176
+856
+counted: 856
+627
+counted: 627
+308
+counted: 308
+696
+counted: 696
+658
+counted: 658
+row: 86
+489
+counted: 489
+51
+counted: 51
+174
+counted: 174
+676
+counted: 676
+332
+counted: 332
+373
+counted: 373
+350
+counted: 350
+row: 87
+181
+822
+counted: 822
+136
+counted: 136
+888
+642
+counted: 642
+202
+counted: 202
+65
+counted: 65
+958
+counted: 958
+358
+counted: 358
+510
+counted: 510
+504
+counted: 504
+747
+counted: 747
+993
+339
+counted: 339
+764
+counted: 764
+row: 88
+540
+counted: 540
+308
+counted: 308
+895
+counted: 895
+942
+counted: 942
+506
+counted: 506
+791
+166
+counted: 166
+668
+row: 89
+452
+631
+counted: 631
+253
+counted: 253
+897
+counted: 897
+602
+row: 90
+748
+counted: 748
+249
+counted: 249
+24
+counted: 24
+21
+847
+counted: 847
+194
+counted: 194
+865
+counted: 865
+550
+counted: 550
+row: 91
+658
+counted: 658
+573
+counted: 573
+679
+counted: 679
+760
+431
+counted: 431
+481
+907
+counted: 907
+130
+counted: 130
+912
+counted: 912
+240
+counted: 240
+998
+counted: 998
+row: 92
+605
+counted: 605
+25
+counted: 25
+726
+646
+counted: 646
+607
+698
+counted: 698
+row: 93
+301
+counted: 301
+572
+counted: 572
+101
+counted: 101
+148
+counted: 148
+55
+122
+counted: 122
+953
+counted: 953
+602
+counted: 602
+321
+counted: 321
+929
+counted: 929
+998
+row: 94
+511
+870
+808
+counted: 808
+257
+counted: 257
+206
+685
+counted: 685
+row: 95
+903
+counted: 903
+398
+counted: 398
+588
+counted: 588
+114
+990
+counted: 990
+677
+counted: 677
+182
+counted: 182
+10
+counted: 10
+2
+counted: 2
+row: 96
+490
+counted: 490
+987
+counted: 987
+803
+counted: 803
+98
+485
+counted: 485
+493
+counted: 493
+868
+counted: 868
+945
+counted: 945
+805
+counted: 805
+89
+counted: 89
+944
+counted: 944
+296
+counted: 296
+row: 97
+640
+counted: 640
+669
+counted: 669
+630
+counted: 630
+582
+counted: 582
+341
+counted: 341
+939
+counted: 939
+row: 98
+34
+counted: 34
+557
+counted: 557
+130
+265
+counted: 265
+21
+counted: 21
+625
+counted: 625
+796
+counted: 796
+690
+counted: 690
+997
+counted: 997
+489
+293
+counted: 293
+row: 99
+917
+counted: 917
+916
+counted: 916
+948
+counted: 948
+148
+67
+counted: 67
+833
+943
+row: 100
+849
+counted: 849
+4
+counted: 4
+300
+counted: 300
+217
+counted: 217
+58
+counted: 58
+643
+counted: 643
+170
+counted: 170
+row: 101
+511
+counted: 511
+853
+counted: 853
+355
+counted: 355
+35
+counted: 35
+636
+counted: 636
+595
+131
+counted: 131
+496
+687
+counted: 687
+row: 102
+476
+counted: 476
+452
+435
+counted: 435
+700
+counted: 700
+391
+counted: 391
+418
+counted: 418
+39
+counted: 39
+row: 103
+16
+counted: 16
+500
+counted: 500
+426
+counted: 426
+469
+counted: 469
+522
+counted: 522
+939
+counted: 939
+395
+counted: 395
+660
+counted: 660
+row: 104
+696
+counted: 696
+869
+counted: 869
+995
+413
+counted: 413
+864
+counted: 864
+991
+counted: 991
+598
+counted: 598
+42
+counted: 42
+806
+counted: 806
+386
+counted: 386
+row: 105
+337
+counted: 337
+983
+counted: 983
+610
+104
+counted: 104
+100
+counted: 100
+79
+counted: 79
+461
+counted: 461
+685
+counted: 685
+270
+counted: 270
+240
+row: 106
+207
+counted: 207
+311
+741
+counted: 741
+337
+counted: 337
+381
+counted: 381
+979
+counted: 979
+712
+counted: 712
+374
+counted: 374
+879
+counted: 879
+row: 107
+554
+counted: 554
+485
+counted: 485
+853
+276
+counted: 276
+230
+counted: 230
+7
+counted: 7
+740
+counted: 740
+755
+counted: 755
+row: 108
+927
+counted: 927
+46
+counted: 46
+466
+counted: 466
+531
+counted: 531
+593
+961
+counted: 961
+row: 109
+65
+294
+counted: 294
+30
+counted: 30
+339
+counted: 339
+856
+966
+counted: 966
+904
+counted: 904
+791
+counted: 791
+841
+counted: 841
+438
+747
+counted: 747
+row: 110
+419
+counted: 419
+614
+972
+counted: 972
+131
+716
+counted: 716
+21
+counted: 21
+row: 111
+79
+76
+counted: 76
+243
+counted: 243
+115
+counted: 115
+757
+counted: 757
+364
+counted: 364
+870
+counted: 870
+890
+counted: 890
+840
+55
+row: 112
+383
+48
+counted: 48
+571
+counted: 571
+124
+counted: 124
+749
+counted: 749
+201
+counted: 201
+row: 113
+752
+counted: 752
+470
+counted: 470
+964
+counted: 964
+452
+counted: 452
+776
+counted: 776
+413
+counted: 413
+9
+counted: 9
+791
+counted: 791
+257
+counted: 257
+687
+counted: 687
+84
+counted: 84
+row: 114
+502
+counted: 502
+873
+counted: 873
+850
+573
+counted: 573
+729
+counted: 729
+197
+counted: 197
+798
+counted: 798
+65
+counted: 65
+200
+counted: 200
+357
+row: 115
+307
+counted: 307
+597
+counted: 597
+473
+counted: 473
+332
+counted: 332
+311
+861
+counted: 861
+399
+counted: 399
+472
+counted: 472
+row: 116
+820
+counted: 820
+65
+counted: 65
+754
+counted: 754
+713
+counted: 713
+739
+counted: 739
+622
+counted: 622
+768
+967
+counted: 967
+row: 117
+180
+counted: 180
+218
+counted: 218
+260
+counted: 260
+519
+counted: 519
+933
+counted: 933
+271
+counted: 271
+36
+counted: 36
+132
+counted: 132
+147
+row: 118
+935
+counted: 935
+4
+counted: 4
+254
+counted: 254
+815
+counted: 815
+58
+counted: 58
+689
+counted: 689
+159
+counted: 159
+414
+counted: 414
+164
+counted: 164
+row: 119
+388
+counted: 388
+284
+counted: 284
+833
+counted: 833
+770
+counted: 770
+705
+counted: 705
+697
+counted: 697
+466
+counted: 466
+239
+counted: 239
+332
+counted: 332
+489
+counted: 489
+row: 120
+288
+counted: 288
+972
+counted: 972
+723
+counted: 723
+592
+row: 121
+535
+counted: 535
+267
+counted: 267
+193
+counted: 193
+367
+counted: 367
+132
+counted: 132
+509
+counted: 509
+776
+counted: 776
+790
+counted: 790
+466
+counted: 466
+715
+counted: 715
+758
+counted: 758
+115
+counted: 115
+608
+counted: 608
+row: 122
+979
+counted: 979
+8
+counted: 8
+353
+counted: 353
+329
+counted: 329
+544
+counted: 544
+913
+759
+counted: 759
+704
+counted: 704
+712
+counted: 712
+row: 123
+52
+counted: 52
+170
+counted: 170
+459
+counted: 459
+161
+813
+counted: 813
+510
+counted: 510
+207
+counted: 207
+581
+row: 124
+978
+counted: 978
+581
+9
+counted: 9
+815
+counted: 815
+450
+counted: 450
+604
+counted: 604
+308
+725
+counted: 725
+row: 125
+16
+counted: 16
+269
+counted: 269
+195
+counted: 195
+217
+counted: 217
+216
+counted: 216
+890
+counted: 890
+534
+counted: 534
+84
+row: 126
+339
+counted: 339
+459
+counted: 459
+644
+636
+counted: 636
+113
+154
+counted: 154
+127
+counted: 127
+348
+counted: 348
+row: 127
+349
+402
+735
+counted: 735
+182
+counted: 182
+121
+counted: 121
+134
+counted: 134
+255
+counted: 255
+276
+counted: 276
+460
+counted: 460
+79
+counted: 79
+row: 128
+503
+counted: 503
+22
+counted: 22
+38
+counted: 38
+11
+counted: 11
+326
+counted: 326
+853
+counted: 853
+216
+counted: 216
+180
+16
+row: 129
+92
+456
+counted: 456
+619
+counted: 619
+103
+counted: 103
+190
+counted: 190
+353
+982
+counted: 982
+25
+counted: 25
+465
+counted: 465
+209
+counted: 209
+row: 130
+485
+350
+counted: 350
+949
+counted: 949
+994
+379
+counted: 379
+3
+counted: 3
+22
+counted: 22
+972
+counted: 972
+713
+counted: 713
+734
+counted: 734
+262
+counted: 262
+846
+counted: 846
+333
+counted: 333
+row: 131
+121
+counted: 121
+729
+counted: 729
+325
+374
+counted: 374
+769
+counted: 769
+811
+counted: 811
+row: 132
+788
+counted: 788
+488
+counted: 488
+851
+counted: 851
+679
+487
+counted: 487
+368
+counted: 368
+row: 133
+612
+counted: 612
+528
+counted: 528
+255
+364
+counted: 364
+130
+counted: 130
+317
+counted: 317
+251
+counted: 251
+665
+206
+counted: 206
+972
+957
+counted: 957
+184
+counted: 184
+row: 134
+337
+475
+counted: 475
+391
+counted: 391
+347
+counted: 347
+795
+counted: 795
+722
+counted: 722
+666
+counted: 666
+row: 135
+823
+counted: 823
+716
+counted: 716
+247
+counted: 247
+329
+counted: 329
+697
+counted: 697
+168
+624
+counted: 624
+592
+counted: 592
+row: 136
+98
+counted: 98
+916
+counted: 916
+915
+counted: 915
+245
+counted: 245
+277
+counted: 277
+353
+counted: 353
+719
+counted: 719
+846
+counted: 846
+601
+counted: 601
+37
+counted: 37
+47
+counted: 47
+519
+counted: 519
+row: 137
+91
+counted: 91
+720
+counted: 720
+985
+counted: 985
+976
+counted: 976
+834
+counted: 834
+461
+266
+counted: 266
+row: 138
+68
+45
+counted: 45
+79
+counted: 79
+888
+counted: 888
+250
+counted: 250
+461
+counted: 461
+574
+counted: 574
+3
+counted: 3
+408
+380
+383
+counted: 383
+192
+counted: 192
+row: 139
+836
+383
+counted: 383
+557
+672
+counted: 672
+764
+counted: 764
+944
+counted: 944
+827
+counted: 827
+row: 0
+48
+501
+counted: 501
+33
+622
+763
+counted: 763
+331
+counted: 331
+161
+counted: 161
+683
+counted: 683
+980
+counted: 980
+row: 1
+491
+counted: 491
+842
+counted: 842
+948
+counted: 948
+338
+counted: 338
+309
+counted: 309
+633
+counted: 633
+990
+counted: 990
+706
+counted: 706
+452
+counted: 452
+row: 2
+426
+408
+counted: 408
+659
+counted: 659
+250
+767
+counted: 767
+403
+counted: 403
+row: 3
+363
+counted: 363
+961
+counted: 961
+959
+counted: 959
+508
+counted: 508
+223
+counted: 223
+843
+406
+counted: 406
+690
+counted: 690
+479
+counted: 479
+398
+counted: 398
+458
+counted: 458
+row: 4
+946
+counted: 946
+767
+counted: 767
+907
+counted: 907
+158
+counted: 158
+850
+counted: 850
+670
+counted: 670
+10
+counted: 10
+790
+counted: 790
+row: 5
+39
+counted: 39
+306
+679
+counted: 679
+113
+counted: 113
+665
+counted: 665
+874
+counted: 874
+597
+861
+840
+counted: 840
+855
+counted: 855
+row: 6
+864
+154
+counted: 154
+1
+counted: 1
+4
+counted: 4
+341
+counted: 341
+731
+counted: 731
+783
+counted: 783
+204
+counted: 204
+row: 7
+919
+counted: 919
+706
+counted: 706
+891
+counted: 891
+840
+counted: 840
+473
+counted: 473
+379
+counted: 379
+149
+counted: 149
+115
+counted: 115
+519
+counted: 519
+668
+counted: 668
+423
+counted: 423
+row: 8
+398
+counted: 398
+190
+counted: 190
+530
+counted: 530
+475
+row: 9
+543
+counted: 543
+834
+counted: 834
+729
+146
+789
+counted: 789
+189
+counted: 189
+511
+counted: 511
+17
+counted: 17
+455
+counted: 455
+308
+counted: 308
+662
+530
+row: 10
+142
+counted: 142
+437
+138
+counted: 138
+755
+counted: 755
+53
+counted: 53
+783
+counted: 783
+674
+counted: 674
+315
+counted: 315
+row: 11
+826
+counted: 826
+752
+counted: 752
+414
+480
+counted: 480
+276
+counted: 276
+952
+counted: 952
+row: 12
+131
+counted: 131
+654
+counted: 654
+590
+counted: 590
+819
+counted: 819
+347
+counted: 347
+294
+counted: 294
+776
+counted: 776
+741
+counted: 741
+830
+counted: 830
+230
+counted: 230
+row: 13
+586
+counted: 586
+968
+counted: 968
+319
+counted: 319
+628
+counted: 628
+516
+counted: 516
+933
+600
+counted: 600
+row: 14
+726
+876
+counted: 876
+772
+counted: 772
+99
+counted: 99
+145
+counted: 145
+785
+counted: 785
+row: 15
+710
+counted: 710
+352
+counted: 352
+842
+counted: 842
+941
+counted: 941
+802
+133
+counted: 133
+474
+235
+counted: 235
+561
+counted: 561
+row: 16
+642
+counted: 642
+774
+counted: 774
+67
+counted: 67
+921
+counted: 921
+374
+counted: 374
+165
+counted: 165
+row: 17
+250
+counted: 250
+8
+counted: 8
+968
+counted: 968
+375
+counted: 375
+224
+497
+counted: 497
+833
+counted: 833
+row: 18
+584
+counted: 584
+978
+counted: 978
+107
+counted: 107
+471
+counted: 471
+486
+counted: 486
+408
+counted: 408
+241
+counted: 241
+555
+counted: 555
+row: 19
+662
+counted: 662
+186
+counted: 186
+550
+counted: 550
+309
+counted: 309
+76
+counted: 76
+399
+counted: 399
+row: 20
+281
+counted: 281
+808
+counted: 808
+666
+counted: 666
+207
+counted: 207
+615
+59
+counted: 59
+569
+counted: 569
+197
+counted: 197
+42
+counted: 42
+572
+231
+counted: 231
+row: 21
+758
+counted: 758
+777
+counted: 777
+433
+counted: 433
+646
+counted: 646
+834
+counted: 834
+543
+counted: 543
+769
+counted: 769
+row: 22
+995
+628
+counted: 628
+341
+counted: 341
+583
+counted: 583
+112
+counted: 112
+74
+counted: 74
+341
+counted: 341
+row: 23
+775
+counted: 775
+744
+counted: 744
+278
+counted: 278
+128
+counted: 128
+126
+counted: 126
+940
+counted: 940
+839
+counted: 839
+385
+counted: 385
+499
+302
+counted: 302
+row: 24
+177
+counted: 177
+574
+561
+counted: 561
+590
+counted: 590
+231
+counted: 231
+586
+counted: 586
+212
+counted: 212
+row: 25
+418
+counted: 418
+954
+counted: 954
+433
+counted: 433
+484
+counted: 484
+526
+counted: 526
+643
+counted: 643
+778
+701
+counted: 701
+row: 26
+414
+counted: 414
+493
+counted: 493
+566
+counted: 566
+236
+748
+counted: 748
+543
+counted: 543
+593
+745
+counted: 745
+57
+counted: 57
+row: 27
+46
+counted: 46
+659
+counted: 659
+980
+counted: 980
+66
+counted: 66
+36
+87
+counted: 87
+994
+counted: 994
+218
+counted: 218
+443
+row: 28
+226
+241
+counted: 241
+893
+counted: 893
+257
+counted: 257
+312
+counted: 312
+69
+counted: 69
+792
+counted: 792
+257
+counted: 257
+790
+184
+counted: 184
+row: 29
+854
+counted: 854
+909
+139
+counted: 139
+276
+counted: 276
+680
+counted: 680
+432
+counted: 432
+580
+counted: 580
+248
+row: 30
+136
+counted: 136
+755
+counted: 755
+950
+counted: 950
+173
+95
+2
+counted: 2
+877
+668
+counted: 668
+918
+counted: 918
+62
+counted: 62
+571
+counted: 571
+row: 31
+333
+counted: 333
+812
+counted: 812
+428
+counted: 428
+496
+counted: 496
+903
+counted: 903
+258
+counted: 258
+650
+counted: 650
+281
+counted: 281
+row: 32
+500
+counted: 500
+6
+counted: 6
+719
+counted: 719
+285
+counted: 285
+955
+counted: 955
+712
+counted: 712
+12
+counted: 12
+561
+counted: 561
+497
+667
+counted: 667
+843
+777
+counted: 777
+427
+row: 33
+506
+counted: 506
+359
+counted: 359
+24
+counted: 24
+544
+counted: 544
+436
+counted: 436
+492
+counted: 492
+272
+counted: 272
+row: 34
+377
+counted: 377
+41
+counted: 41
+229
+counted: 229
+761
+540
+counted: 540
+391
+counted: 391
+565
+counted: 565
+449
+counted: 449
+665
+counted: 665
+row: 35
+887
+906
+141
+counted: 141
+357
+874
+counted: 874
+811
+9
+counted: 9
+113
+counted: 113
+967
+628
+counted: 628
+row: 36
+406
+counted: 406
+637
+counted: 637
+551
+223
+counted: 223
+162
+counted: 162
+251
+counted: 251
+702
+counted: 702
+905
+counted: 905
+747
+counted: 747
+row: 37
+321
+counted: 321
+801
+390
+counted: 390
+845
+counted: 845
+12
+counted: 12
+399
+counted: 399
+126
+counted: 126
+283
+counted: 283
+566
+counted: 566
+124
+counted: 124
+102
+counted: 102
+row: 38
+447
+counted: 447
+935
+41
+68
+87
+counted: 87
+92
+counted: 92
+105
+counted: 105
+178
+counted: 178
+92
+21
+counted: 21
+row: 39
+505
+counted: 505
+614
+counted: 614
+948
+counted: 948
+237
+counted: 237
+512
+counted: 512
+108
+counted: 108
+58
+counted: 58
+162
+counted: 162
+454
+counted: 454
+395
+counted: 395
+5
+row: 40
+454
+counted: 454
+10
+counted: 10
+101
+counted: 101
+885
+counted: 885
+row: 41
+534
+114
+counted: 114
+95
+counted: 95
+427
+counted: 427
+210
+counted: 210
+674
+counted: 674
+371
+counted: 371
+903
+counted: 903
+81
+counted: 81
+922
+counted: 922
+231
+counted: 231
+346
+counted: 346
+row: 42
+525
+counted: 525
+887
+counted: 887
+162
+counted: 162
+211
+counted: 211
+166
+281
+counted: 281
+835
+635
+counted: 635
+828
+counted: 828
+row: 43
+571
+933
+counted: 933
+629
+counted: 629
+25
+977
+counted: 977
+178
+counted: 178
+749
+counted: 749
+row: 44
+993
+counted: 993
+516
+394
+counted: 394
+56
+counted: 56
+477
+counted: 477
+545
+counted: 545
+251
+counted: 251
+858
+counted: 858
+499
+counted: 499
+435
+counted: 435
+170
+counted: 170
+row: 45
+967
+counted: 967
+73
+counted: 73
+35
+counted: 35
+656
+counted: 656
+842
+counted: 842
+749
+counted: 749
+622
+counted: 622
+row: 46
+366
+counted: 366
+86
+counted: 86
+162
+counted: 162
+332
+counted: 332
+859
+counted: 859
+102
+488
+counted: 488
+717
+counted: 717
+row: 47
+347
+32
+counted: 32
+393
+counted: 393
+252
+262
+counted: 262
+951
+counted: 951
+823
+counted: 823
+784
+358
+counted: 358
+603
+counted: 603
+515
+counted: 515
+row: 48
+917
+counted: 917
+642
+counted: 642
+394
+counted: 394
+195
+counted: 195
+448
+counted: 448
+519
+counted: 519
+302
+counted: 302
+870
+counted: 870
+row: 49
+674
+counted: 674
+780
+counted: 780
+547
+counted: 547
+287
+504
+counted: 504
+803
+counted: 803
+688
+counted: 688
+831
+counted: 831
+617
+476
+counted: 476
+9
+counted: 9
+row: 50
+286
+counted: 286
+738
+counted: 738
+511
+counted: 511
+11
+581
+counted: 581
+268
+counted: 268
+439
+counted: 439
+523
+counted: 523
+459
+counted: 459
+69
+373
+887
+counted: 887
+row: 51
+555
+counted: 555
+45
+638
+counted: 638
+964
+88
+counted: 88
+row: 52
+802
+805
+counted: 805
+77
+counted: 77
+648
+counted: 648
+66
+counted: 66
+676
+counted: 676
+26
+counted: 26
+708
+counted: 708
+981
+counted: 981
+239
+counted: 239
+953
+counted: 953
+672
+counted: 672
+row: 53
+11
+counted: 11
+756
+counted: 756
+298
+counted: 298
+751
+433
+counted: 433
+727
+counted: 727
+row: 54
+553
+659
+counted: 659
+907
+counted: 907
+530
+counted: 530
+218
+counted: 218
+259
+counted: 259
+821
+counted: 821
+716
+counted: 716
+980
+counted: 980
+89
+counted: 89
+851
+counted: 851
+793
+counted: 793
+614
+counted: 614
+943
+counted: 943
+961
+counted: 961
+row: 55
+339
+counted: 339
+373
+counted: 373
+667
+counted: 667
+149
+counted: 149
+613
+counted: 613
+row: 56
+987
+670
+counted: 670
+105
+counted: 105
+347
+counted: 347
+383
+counted: 383
+605
+447
+counted: 447
+124
+counted: 124
+737
+counted: 737
+562
+counted: 562
+15
+counted: 15
+445
+counted: 445
+row: 57
+595
+counted: 595
+7
+counted: 7
+215
+counted: 215
+839
+counted: 839
+781
+counted: 781
+810
+350
+counted: 350
+row: 58
+929
+counted: 929
+362
+counted: 362
+890
+counted: 890
+975
+counted: 975
+2
+counted: 2
+252
+counted: 252
+576
+counted: 576
+78
+counted: 78
+685
+counted: 685
+240
+695
+counted: 695
+row: 59
+475
+counted: 475
+598
+counted: 598
+152
+counted: 152
+841
+counted: 841
+880
+counted: 880
+693
+counted: 693
+28
+384
+counted: 384
+row: 60
+472
+320
+counted: 320
+412
+counted: 412
+304
+395
+counted: 395
+113
+counted: 113
+601
+counted: 601
+row: 61
+324
+738
+counted: 738
+968
+counted: 968
+755
+counted: 755
+101
+counted: 101
+476
+counted: 476
+90
+counted: 90
+342
+counted: 342
+638
+counted: 638
+182
+704
+139
+row: 62
+610
+counted: 610
+601
+counted: 601
+356
+counted: 356
+633
+counted: 633
+971
+806
+counted: 806
+240
+counted: 240
+row: 63
+683
+counted: 683
+326
+counted: 326
+749
+390
+163
+counted: 163
+800
+483
+counted: 483
+792
+counted: 792
+94
+counted: 94
+row: 64
+600
+957
+counted: 957
+741
+counted: 741
+376
+counted: 376
+817
+counted: 817
+899
+counted: 899
+194
+counted: 194
+50
+counted: 50
+96
+counted: 96
+368
+counted: 368
+600
+counted: 600
+row: 65
+338
+counted: 338
+304
+counted: 304
+236
+counted: 236
+284
+counted: 284
+row: 66
+423
+763
+counted: 763
+947
+counted: 947
+371
+counted: 371
+187
+counted: 187
+356
+counted: 356
+441
+counted: 441
+201
+counted: 201
+285
+row: 67
+75
+counted: 75
+696
+counted: 696
+670
+counted: 670
+row: 68
+426
+counted: 426
+635
+counted: 635
+449
+counted: 449
+758
+counted: 758
+314
+counted: 314
+246
+counted: 246
+58
+counted: 58
+row: 69
+574
+counted: 574
+322
+counted: 322
+937
+counted: 937
+116
+counted: 116
+40
+counted: 40
+752
+counted: 752
+400
+counted: 400
+180
+918
+counted: 918
+195
+counted: 195
+49
+counted: 49
+983
+559
+counted: 559
+82
+counted: 82
+row: 70
+527
+counted: 527
+842
+counted: 842
+817
+counted: 817
+270
+counted: 270
+445
+counted: 445
+row: 71
+622
+counted: 622
+235
+counted: 235
+869
+counted: 869
+922
+counted: 922
+125
+counted: 125
+610
+counted: 610
+459
+counted: 459
+455
+counted: 455
+21
+counted: 21
+964
+counted: 964
+row: 72
+465
+counted: 465
+542
+counted: 542
+47
+counted: 47
+272
+775
+counted: 775
+328
+counted: 328
+row: 73
+732
+counted: 732
+51
+counted: 51
+853
+counted: 853
+222
+counted: 222
+672
+counted: 672
+148
+counted: 148
+572
+counted: 572
+499
+counted: 499
+12
+counted: 12
+row: 74
+125
+counted: 125
+581
+counted: 581
+909
+counted: 909
+787
+counted: 787
+720
+counted: 720
+263
+counted: 263
+881
+counted: 881
+623
+counted: 623
+891
+counted: 891
+515
+counted: 515
+726
+counted: 726
+78
+counted: 78
+row: 75
+715
+counted: 715
+935
+counted: 935
+650
+counted: 650
+874
+counted: 874
+127
+923
+counted: 923
+row: 76
+330
+counted: 330
+444
+counted: 444
+653
+counted: 653
+345
+counted: 345
+915
+counted: 915
+960
+counted: 960
+395
+counted: 395
+823
+counted: 823
+706
+734
+counted: 734
+341
+counted: 341
+295
+counted: 295
+342
+row: 77
+99
+counted: 99
+465
+counted: 465
+416
+counted: 416
+630
+counted: 630
+row: 78
+356
+counted: 356
+399
+counted: 399
+349
+counted: 349
+542
+counted: 542
+853
+counted: 853
+375
+counted: 375
+132
+counted: 132
+row: 79
+77
+counted: 77
+719
+counted: 719
+662
+233
+counted: 233
+781
+counted: 781
+687
+counted: 687
+row: 80
+791
+counted: 791
+933
+counted: 933
+931
+884
+counted: 884
+112
+counted: 112
+601
+counted: 601
+857
+counted: 857
+row: 81
+583
+292
+counted: 292
+438
+counted: 438
+424
+counted: 424
+603
+counted: 603
+416
+counted: 416
+484
+counted: 484
+104
+706
+row: 82
+452
+counted: 452
+549
+counted: 549
+24
+counted: 24
+997
+767
+counted: 767
+379
+counted: 379
+192
+counted: 192
+row: 83
+413
+523
+443
+412
+counted: 412
+546
+counted: 546
+859
+counted: 859
+138
+counted: 138
+66
+counted: 66
+576
+counted: 576
+row: 84
+348
+counted: 348
+816
+counted: 816
+106
+counted: 106
+391
+counted: 391
+447
+counted: 447
+895
+counted: 895
+595
+row: 85
+771
+675
+counted: 675
+673
+counted: 673
+176
+856
+counted: 856
+627
+counted: 627
+308
+counted: 308
+696
+counted: 696
+658
+counted: 658
+row: 86
+489
+counted: 489
+51
+counted: 51
+174
+counted: 174
+676
+counted: 676
+332
+counted: 332
+373
+counted: 373
+350
+counted: 350
+row: 87
+181
+822
+counted: 822
+136
+counted: 136
+888
+642
+counted: 642
+202
+counted: 202
+65
+counted: 65
+958
+counted: 958
+358
+counted: 358
+510
+counted: 510
+504
+counted: 504
+747
+counted: 747
+993
+339
+counted: 339
+764
+counted: 764
+row: 88
+540
+counted: 540
+308
+counted: 308
+895
+counted: 895
+942
+counted: 942
+506
+counted: 506
+791
+166
+counted: 166
+668
+row: 89
+452
+631
+counted: 631
+253
+counted: 253
+897
+counted: 897
+602
+row: 90
+748
+counted: 748
+249
+counted: 249
+24
+counted: 24
+21
+847
+counted: 847
+194
+counted: 194
+865
+counted: 865
+550
+counted: 550
+row: 91
+658
+counted: 658
+573
+counted: 573
+679
+counted: 679
+760
+431
+counted: 431
+481
+907
+counted: 907
+130
+counted: 130
+912
+counted: 912
+240
+counted: 240
+998
+counted: 998
+row: 92
+605
+counted: 605
+25
+counted: 25
+726
+646
+counted: 646
+607
+698
+counted: 698
+row: 93
+301
+counted: 301
+572
+counted: 572
+101
+counted: 101
+148
+counted: 148
+55
+122
+counted: 122
+953
+counted: 953
+602
+counted: 602
+321
+counted: 321
+929
+counted: 929
+998
+row: 94
+511
+870
+808
+counted: 808
+257
+counted: 257
+206
+685
+counted: 685
+row: 95
+903
+counted: 903
+398
+counted: 398
+588
+counted: 588
+114
+990
+counted: 990
+677
+counted: 677
+182
+counted: 182
+10
+counted: 10
+2
+counted: 2
+row: 96
+490
+counted: 490
+987
+counted: 987
+803
+counted: 803
+98
+485
+counted: 485
+493
+counted: 493
+868
+counted: 868
+945
+counted: 945
+805
+counted: 805
+89
+counted: 89
+944
+counted: 944
+296
+counted: 296
+row: 97
+640
+counted: 640
+669
+counted: 669
+630
+counted: 630
+582
+counted: 582
+341
+counted: 341
+939
+counted: 939
+row: 98
+34
+counted: 34
+557
+counted: 557
+130
+265
+counted: 265
+21
+counted: 21
+625
+counted: 625
+796
+counted: 796
+690
+counted: 690
+997
+counted: 997
+489
+293
+counted: 293
+row: 99
+917
+counted: 917
+916
+counted: 916
+948
+counted: 948
+148
+67
+counted: 67
+833
+943
+row: 100
+849
+counted: 849
+4
+counted: 4
+300
+counted: 300
+217
+counted: 217
+58
+counted: 58
+643
+counted: 643
+170
+counted: 170
+row: 101
+511
+counted: 511
+853
+counted: 853
+355
+counted: 355
+35
+counted: 35
+636
+counted: 636
+595
+131
+counted: 131
+496
+687
+counted: 687
+row: 102
+476
+counted: 476
+452
+435
+counted: 435
+700
+counted: 700
+391
+counted: 391
+418
+counted: 418
+39
+counted: 39
+row: 103
+16
+counted: 16
+500
+counted: 500
+426
+counted: 426
+469
+counted: 469
+522
+counted: 522
+939
+counted: 939
+395
+counted: 395
+660
+counted: 660
+row: 104
+696
+counted: 696
+869
+counted: 869
+995
+413
+counted: 413
+864
+counted: 864
+991
+counted: 991
+598
+counted: 598
+42
+counted: 42
+806
+counted: 806
+386
+counted: 386
+row: 105
+337
+counted: 337
+983
+counted: 983
+610
+104
+counted: 104
+100
+counted: 100
+79
+counted: 79
+461
+counted: 461
+685
+counted: 685
+270
+counted: 270
+240
+row: 106
+207
+counted: 207
+311
+741
+counted: 741
+337
+counted: 337
+381
+counted: 381
+979
+counted: 979
+712
+counted: 712
+374
+counted: 374
+879
+counted: 879
+row: 107
+554
+counted: 554
+485
+counted: 485
+853
+276
+counted: 276
+230
+counted: 230
+7
+counted: 7
+740
+counted: 740
+755
+counted: 755
+row: 108
+927
+counted: 927
+46
+counted: 46
+466
+counted: 466
+531
+counted: 531
+593
+961
+counted: 961
+row: 109
+65
+294
+counted: 294
+30
+counted: 30
+339
+counted: 339
+856
+966
+counted: 966
+904
+counted: 904
+791
+counted: 791
+841
+counted: 841
+438
+747
+counted: 747
+row: 110
+419
+counted: 419
+614
+972
+counted: 972
+131
+716
+counted: 716
+21
+counted: 21
+row: 111
+79
+76
+counted: 76
+243
+counted: 243
+115
+counted: 115
+757
+counted: 757
+364
+counted: 364
+870
+counted: 870
+890
+counted: 890
+840
+55
+row: 112
+383
+48
+counted: 48
+571
+counted: 571
+124
+counted: 124
+749
+counted: 749
+201
+counted: 201
+row: 113
+752
+counted: 752
+470
+counted: 470
+964
+counted: 964
+452
+counted: 452
+776
+counted: 776
+413
+counted: 413
+9
+counted: 9
+791
+counted: 791
+257
+counted: 257
+687
+counted: 687
+84
+counted: 84
+row: 114
+502
+counted: 502
+873
+counted: 873
+850
+573
+counted: 573
+729
+counted: 729
+197
+counted: 197
+798
+counted: 798
+65
+counted: 65
+200
+counted: 200
+357
+row: 115
+307
+counted: 307
+597
+counted: 597
+473
+counted: 473
+332
+counted: 332
+311
+861
+counted: 861
+399
+counted: 399
+472
+counted: 472
+row: 116
+820
+counted: 820
+65
+counted: 65
+754
+counted: 754
+713
+counted: 713
+739
+counted: 739
+622
+counted: 622
+768
+967
+counted: 967
+row: 117
+180
+counted: 180
+218
+counted: 218
+260
+counted: 260
+519
+counted: 519
+933
+counted: 933
+271
+counted: 271
+36
+counted: 36
+132
+counted: 132
+147
+row: 118
+935
+counted: 935
+4
+counted: 4
+254
+counted: 254
+815
+counted: 815
+58
+counted: 58
+689
+counted: 689
+159
+counted: 159
+414
+counted: 414
+164
+counted: 164
+row: 119
+388
+counted: 388
+284
+counted: 284
+833
+counted: 833
+770
+counted: 770
+705
+counted: 705
+697
+counted: 697
+466
+counted: 466
+239
+counted: 239
+332
+counted: 332
+489
+counted: 489
+row: 120
+288
+counted: 288
+972
+counted: 972
+723
+counted: 723
+592
+row: 121
+535
+counted: 535
+267
+counted: 267
+193
+counted: 193
+367
+counted: 367
+132
+counted: 132
+509
+counted: 509
+776
+counted: 776
+790
+counted: 790
+466
+counted: 466
+715
+counted: 715
+758
+counted: 758
+115
+counted: 115
+608
+counted: 608
+row: 122
+979
+counted: 979
+8
+counted: 8
+353
+counted: 353
+329
+counted: 329
+544
+counted: 544
+913
+759
+counted: 759
+704
+counted: 704
+712
+counted: 712
+row: 123
+52
+counted: 52
+170
+counted: 170
+459
+counted: 459
+161
+813
+counted: 813
+510
+counted: 510
+207
+counted: 207
+581
+row: 124
+978
+counted: 978
+581
+9
+counted: 9
+815
+counted: 815
+450
+counted: 450
+604
+counted: 604
+308
+725
+counted: 725
+row: 125
+16
+counted: 16
+269
+counted: 269
+195
+counted: 195
+217
+counted: 217
+216
+counted: 216
+890
+counted: 890
+534
+counted: 534
+84
+row: 126
+339
+counted: 339
+459
+counted: 459
+644
+636
+counted: 636
+113
+154
+counted: 154
+127
+counted: 127
+348
+counted: 348
+row: 127
+349
+402
+735
+counted: 735
+182
+counted: 182
+121
+counted: 121
+134
+counted: 134
+255
+counted: 255
+276
+counted: 276
+460
+counted: 460
+79
+counted: 79
+row: 128
+503
+counted: 503
+22
+counted: 22
+38
+counted: 38
+11
+counted: 11
+326
+counted: 326
+853
+counted: 853
+216
+counted: 216
+180
+16
+row: 129
+92
+456
+counted: 456
+619
+counted: 619
+103
+counted: 103
+190
+counted: 190
+353
+982
+counted: 982
+25
+counted: 25
+465
+counted: 465
+209
+counted: 209
+row: 130
+485
+350
+counted: 350
+949
+counted: 949
+994
+379
+counted: 379
+3
+counted: 3
+22
+counted: 22
+972
+counted: 972
+713
+counted: 713
+734
+counted: 734
+262
+counted: 262
+846
+counted: 846
+333
+counted: 333
+row: 131
+121
+counted: 121
+729
+counted: 729
+325
+374
+counted: 374
+769
+counted: 769
+811
+counted: 811
+row: 132
+788
+counted: 788
+488
+counted: 488
+851
+counted: 851
+679
+487
+counted: 487
+368
+counted: 368
+row: 133
+612
+counted: 612
+528
+counted: 528
+255
+364
+counted: 364
+130
+counted: 130
+317
+counted: 317
+251
+counted: 251
+665
+206
+counted: 206
+972
+957
+counted: 957
+184
+counted: 184
+row: 134
+337
+475
+counted: 475
+391
+counted: 391
+347
+counted: 347
+795
+counted: 795
+722
+counted: 722
+666
+counted: 666
+row: 135
+823
+counted: 823
+716
+counted: 716
+247
+counted: 247
+329
+counted: 329
+697
+counted: 697
+168
+624
+counted: 624
+592
+counted: 592
+row: 136
+98
+counted: 98
+916
+counted: 916
+915
+counted: 915
+245
+counted: 245
+277
+counted: 277
+353
+counted: 353
+719
+counted: 719
+846
+counted: 846
+601
+counted: 601
+37
+counted: 37
+47
+counted: 47
+519
+counted: 519
+row: 137
+91
+counted: 91
+720
+counted: 720
+985
+counted: 985
+976
+counted: 976
+834
+counted: 834
+461
+266
+counted: 266
+row: 138
+68
+45
+counted: 45
+79
+counted: 79
+888
+counted: 888
+250
+counted: 250
+461
+counted: 461
+574
+counted: 574
+3
+counted: 3
+408
+380
+383
+counted: 383
+192
+counted: 192
+row: 139
+836
+383
+counted: 383
+557
+672
+counted: 672
+764
+counted: 764
+944
+counted: 944
+827
+counted: 827
